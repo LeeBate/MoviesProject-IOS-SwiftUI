@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "18216516-87C2-4F12-816E-F9FE98492A9D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCF79B86-C896-4788-8961-EAA8C1186649"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesProject/APIServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "APIServices"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FCF79B86-C896-4788-8961-EAA8C1186649 - 12f6c5456091333c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviesProject.APIServices.deinit"
+                  moduleName = "MoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suranaree09/Desktop/B6301200/MoviesProject/MoviesProject/APIServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FCF79B86-C896-4788-8961-EAA8C1186649 - 77ddca30846107c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviesProject.APIServices.__deallocating_deinit"
+                  moduleName = "MoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suranaree09/Desktop/B6301200/MoviesProject/MoviesProject/APIServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "FCF79B86-C896-4788-8961-EAA8C1186649 - d59c8effd8633987"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviesProject.APIServices.__allocating_init() -&gt; MoviesProject.APIServices"
+                  moduleName = "MoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suranaree09/Desktop/B6301200/MoviesProject/MoviesProject/APIServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "FCF79B86-C896-4788-8961-EAA8C1186649 - f89631bd97f94ab9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviesProject.APIServices.init() -&gt; MoviesProject.APIServices"
+                  moduleName = "MoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suranaree09/Desktop/B6301200/MoviesProject/MoviesProject/APIServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
